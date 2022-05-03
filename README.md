@@ -10,10 +10,6 @@
 
 You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_1_born2beroot/blob/main/extras/lvl_1_born2beroot.pdf)
 
-## How to run:
-
-Download the repository.
-
 ## Useful Links:
 
 [What are Virtual Machines](https://azure.microsoft.com/en-us/overview/what-is-a-virtual-machine/#overview)
